@@ -11,8 +11,8 @@ Sam Lantinga - SDL Starter Files (SDL Wiki)
 
 ## Structure
 
-SDL - tests for all library modules
-SDL Starter - starter file from original documentation
+/SDL - tests for all library modules, clone it from SDL Wiki
+/SDL Starter - starter file from SDL Wiki
 
 ## Original Documentation
 
