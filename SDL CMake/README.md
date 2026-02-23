@@ -76,7 +76,16 @@ You will see the finished work!
 ## File Structure
 
 ```
-SDL CMake # used to be vendored/SDL
+SDL-with-CMake-tutorial (initial)
+├── include
+├── src
+│  └── hello.c
+├── CMakeLists.txt
+└── README.md
+
+SDL-with-CMake-tutorial (final result)
+├── SDL # used to be vendored/SDL, from source code
+├── SDL CMake # holds the build file
 ├── include
 ├── src
 │  └── hello.c

@@ -6,7 +6,7 @@ Objective: Understand and apply SDL3 to CMake
 
 ## Credits
 
-Sam Rijal - Getting me started on SDL3 and CMake
+Sam Rijal - Getting me started on SDL3 and CMake  
 Sam Lantinga - SDL Starter Files (SDL Wiki)
 
 ## Structure
